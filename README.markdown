@@ -17,6 +17,7 @@ uart-on | N/A | Assumed to enable on-board UART on next reboot
 uart-off | N/A | Assumed to disable on-board UART on next reboot
 unlock | N/A | Unlock bootloader after erasing previous user data
 device-info | N/A | Check software state on the device, assumed to be use for warranty check(evil)
+reset-dev_info | N/A | Assuming to be related with `device-info`
 
 ### Details
 #### device-info
